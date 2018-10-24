@@ -14,3 +14,6 @@
 # unity-rpg-dq-like
 * unity3d dq-like style battle sample.
 * require NGUI. (not contains in this project)
+
+### sample
+![unity_dq_like](./unity_dq_like.png)
